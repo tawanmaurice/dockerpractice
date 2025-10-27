@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate*
+crash.log
+.DS_Store
+.vscode/
+.idea/
+*.pem
+*.key
+.env
